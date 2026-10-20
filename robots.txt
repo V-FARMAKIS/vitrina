@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://v-farmakis.github.io/vitrina/sitemap.xml
